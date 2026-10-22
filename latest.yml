@@ -1,8 +1,8 @@
-version: 1.0.15
+version: 1.0.17
 files:
-  - url: biometric-system-1.0.15-setup.exe
-    sha512: Ys29jGpkGgR4bBpOSn85jYTtlYzdT5bQe2IUruAchSxEGzDrB39w0Mim29SxxHfGHVTn6oE+V/PDBlnG7PzLKA==
-    size: 99451224
-path: biometric-system-1.0.15-setup.exe
-sha512: Ys29jGpkGgR4bBpOSn85jYTtlYzdT5bQe2IUruAchSxEGzDrB39w0Mim29SxxHfGHVTn6oE+V/PDBlnG7PzLKA==
-releaseDate: '2026-10-22T08:41:48.865Z'
+  - url: biometric-system-1.0.17-setup.exe
+    sha512: ywU1966qY3MKKOEfYISueUg8haped81iXRyEUdOO9GcwegARtK1j5jhsc3fjyeAcnL+lJXOblGJNtPeDFTJ41w==
+    size: 99370379
+path: biometric-system-1.0.17-setup.exe
+sha512: ywU1966qY3MKKOEfYISueUg8haped81iXRyEUdOO9GcwegARtK1j5jhsc3fjyeAcnL+lJXOblGJNtPeDFTJ41w==
+releaseDate: '2026-10-22T09:20:03.017Z'
